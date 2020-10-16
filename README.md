@@ -23,9 +23,8 @@ yarn dev
 
 ## Frontend
 
-```sh
+>
 Go to this [repo](https://github.com/vieiramanda11/react-happy) to see the Frontend and play with the application.
-```
 
 ## Author
 
